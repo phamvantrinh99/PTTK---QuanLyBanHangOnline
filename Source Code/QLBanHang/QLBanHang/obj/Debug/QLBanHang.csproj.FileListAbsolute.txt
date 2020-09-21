@@ -1,0 +1,33 @@
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.ThongTinDonHang.resources
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.XacNhan.resources
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.ThemBaiViet_Form.resources
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.ThemTinNhan.resources
+C:\Users\trung\OneDrive\Máy tính\QLBanHang\QLBanHang\obj\Debug\QLBanHang.KHtrahang.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe.config
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.exe
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\bin\Debug\QLBanHang.pdb
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Form1.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.KHtrahang.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.Properties.Resources.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.ThemBaiViet_Form.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.ThemTinNhan.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.ThongTinDonHang.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.XacNhan.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.GenerateResource.cache
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.exe
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.pdb
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.CT_DonNhapHang.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.CT_DonTraHang.resources
+C:\Users\trinh\Desktop\QLBanHang\QLBanHang\obj\Debug\QLBanHang.KTHopDongQC_Form.resources
